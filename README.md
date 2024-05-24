@@ -1,3 +1,10 @@
+# Preview 👀
+<div align="center">
+   <video src="https://github.com/Bijen11/rn-animation/assets/42229292/4d25dc80-7ae7-44ee-99ef-2064d59ddcdf" width=400/>
+</div>
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
